@@ -1,0 +1,38 @@
+RAPPORT D'ANALYSE DES LOGS 
+=========================== 
+
+
+1. Nombre total déconnexions
+----------------------------
+ - 84 
+
+2. Nombre total de succès
+-------------------------
+ - 59 
+
+3. Nombre total d'échecs
+------------------------
+ - 25 
+
+4. Port le plus utilisé
+-----------------------
+ - 22 
+
+5. Adresse IP la plus active
+----------------------------
+ - 192.168.1.10 
+ - 192.168.1.20 
+ - 192.168.1.40 
+
+6. Adresses IP suspectes
+------------------------
+ - Adresse IP : 192.168.1.10, Port : 22, Tentatives : 6
+ - Adresse IP : 192.168.1.20, Port : 21, Tentatives : 6
+ - Adresse IP : 192.168.1.40, Port : 22, Tentatives : 6
+
+7. Top trois des ports les plus utilisés
+----------------------------------------
+ - Port : 22, Connexions : 22 
+ - Port : 443, Connexions : 11 
+ - Port : 80, Connexions : 10 
+
